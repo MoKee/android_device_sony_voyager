@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_voyager.mk
+    $(LOCAL_DIR)/mokee_voyager.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_voyager-user \
-    lineage_voyager-userdebug \
-    lineage_voyager-eng
+    mokee_voyager-user \
+    mokee_voyager-userdebug \
+    mokee_voyager-eng

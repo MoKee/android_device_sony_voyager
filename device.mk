@@ -22,7 +22,7 @@ $(call inherit-product, vendor/sony/voyager/voyager-vendor.mk)
 # Local overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-mokee
 
 # Audio
 PRODUCT_COPY_FILES += \
